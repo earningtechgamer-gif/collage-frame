@@ -80,9 +80,9 @@ body {
 
 <div class="container">
   <!-- Main Images -->
-    <img src="image1.jpg" class="photo rotate1">
-    <img src="image2.jpg" class="photo rotate2">
-    <img src="image3.jpg" class="photo">
+    <img src="https://raw.githubusercontent.com/shirajmohd816-source/Babu/main/IMG_20260202_045607.jpg" class="photo rotate1">
+    <img src="https://raw.githubusercontent.com/shirajmohd816-source/Babu/main/IMG_20260202_045607.jpg" class="photo rotate2">
+    <img src="https://raw.githubusercontent.com/shirajmohd816-source/Babu/main/IMG_20260202_045607.jpg" class="photo">
 
     <!-- Music Card -->
     <div class="music">
@@ -93,7 +93,7 @@ body {
     </div>
 
     <!-- Small Image -->
-    <img src="image4.jpg" class="small">
+    <img src="https://raw.githubusercontent.com/shirajmohd816-source/Babu/main/IMG_20260202_045607.jpg" class="small">
 
     <!-- Flowers -->
     <img src="flower.png" class="flower flower1">
